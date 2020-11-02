@@ -33,4 +33,14 @@ Connecting to doc-00-68-docs.googleusercontent.com (doc-00-68-docs.googleusercon
 Retrying.
 
 --2020-11-02 17:33:32--  (try:11)  https://doc-00-68-docs.googleusercontent.com/docs/securesc/632cb0idvjm5vfvnmnm95klft90e695d/cpb5pj6sub85v1fcgmi20e8ahh4u247p/1604308200000/11047818459297756254/11047818459297756254/1_XO94D6_4Psf5214pVxqenJVgHb43FSA?e=download
-Connecting to doc-00-68-docs.googleusercontent.com (doc-00-68-docs.googleusercontent.com)|172.217.27.129|:443... 
+Connecting to doc-00-68-docs.googleusercontent.com (doc-00-68-docs.googleusercontent.com)|172.217.27.129|:443... failed: Connection timed out.
+Retrying.
+
+--2020-11-02 17:35:49--  (try:12)  https://doc-00-68-docs.googleusercontent.com/docs/securesc/632cb0idvjm5vfvnmnm95klft90e695d/cpb5pj6sub85v1fcgmi20e8ahh4u247p/1604308200000/11047818459297756254/11047818459297756254/1_XO94D6_4Psf5214pVxqenJVgHb43FSA?e=download
+Connecting to doc-00-68-docs.googleusercontent.com (doc-00-68-docs.googleusercontent.com)|172.217.27.129|:443... failed: Connection timed out.
+Retrying.
+
+--2020-11-02 17:38:06--  (try:13)  https://doc-00-68-docs.googleusercontent.com/docs/securesc/632cb0idvjm5vfvnmnm95klft90e695d/cpb5pj6sub85v1fcgmi20e8ahh4u247p/1604308200000/11047818459297756254/11047818459297756254/1_XO94D6_4Psf5214pVxqenJVgHb43FSA?e=download
+Connecting to doc-00-68-docs.googleusercontent.com (doc-00-68-docs.googleusercontent.com)|172.217.27.129|:443... failed: Connection timed out.
+Retrying.
+

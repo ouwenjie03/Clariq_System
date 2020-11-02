@@ -5,7 +5,9 @@ The system solution from team NTES\_ALONG in EMNLP 2020 workshop Convai3 Challen
 
 ## How to run
 First download the model file from <https://drive.google.com/file/d/1_XO94D6_4Psf5214pVxqenJVgHb43FSA/view?usp=sharing> to models/*
+
 then decompress the models
+
 ```shell script
 mkdir models
 
@@ -16,6 +18,7 @@ unzip convai3_system_models.zip
 ```
 
 Take "dev\_tiny\_synthetic.pkl" as an input example
+
 Remember to replace the ${work\_path} to your abs path
 
 ```shell script
