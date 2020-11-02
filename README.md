@@ -4,10 +4,13 @@
 The system solution from team NTES\_ALONG in EMNLP 2020 workshop Convai3 Challenge.
 
 ## How to run
-First download the model file from <https://drive.google.com/file/d/1tD_tlWFWF2DryRWUwstdRXE6Dou7pB2x/view?usp=sharing> to models/*
+First download the model file from <https://drive.google.com/file/d/1_XO94D6_4Psf5214pVxqenJVgHb43FSA/view?usp=sharing> to models/*
 then decompress the models
 ```shell script
+mkdir models
+
 cd models
+# download `convai3_system_models.zip` from <https://drive.google.com/file/d/1_XO94D6_4Psf5214pVxqenJVgHb43FSA/view?usp=sharing> here
 
 unzip convai3_system_models.zip
 ```
@@ -16,10 +19,10 @@ Take "dev\_tiny\_synthetic.pkl" as an input example
 Remember to replace the ${work\_path} to your abs path
 
 ```shell script
-# first make dir "datai\_dir"
+# first make dir "data_dir"
 mkdir data_dir
 
-# then put the input pkl file in "data\_dir"
+# then put the input pkl file in "data_dir"
 cp dev_tiny_synthetic.pkl ./data_dir/.
 
 # third build docker image
