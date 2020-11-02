@@ -17,7 +17,7 @@ RUN echo 'export LC_ALL=en_US.UTF-8' >> /root/.bashrc
 RUN ln -s -f /bin/bash /bin/sh
 
 ADD ./requirements.txt /workspace/.
-RUN pip install -r /workspace/requirements.txt -i https://pip.nie.netease.com/simple
+RUN pip install -r /workspace/requirements.txt
 
 RUN mkdir /workspace/data
 ADD ./data/train.tsv /workspace/data/train.tsv
