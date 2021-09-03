@@ -1,0 +1,9 @@
+torchtext==0.7.0
+sentencepiece==0.1.91
+sklearn
+nltk
+tqdm
+numpy
+rank_bm25
+pandas
+transformers

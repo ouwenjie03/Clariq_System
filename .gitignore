@@ -1,2 +1,4 @@
-models/*
+stage1/models/*
+stage2/models/*
+stage2/data
 *.zip
